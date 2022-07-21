@@ -1,2 +1,3 @@
-Hi, I am Saurabh Chaudhari, a machine Learning and Artifical Intelligence enthusiast.
-I want to build AI systems to protect againts its own threats to humanity.
+n experienced professional in Data Analysis with knowledge of big data, statistics, machine learning, storytelling, data warehousing. I 
+have keen interest in applying data analytics, statistical and quantitative analysis, machine learning, and market research in solving 
+complex business problems.
